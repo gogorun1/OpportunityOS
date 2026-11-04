@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "private_root": "private",
+  "notion": {
+    "enabled": false,
+    "parent_page_id": null,
+    "data_sources": {"research_briefs": null, "opportunity_signals": null, "networking_targets": null, "career_tracker": null, "daily_reports": null}
+  },
+  "tools": {"web_research": "unverified", "notion": "unverified", "scheduler": "unverified", "mailbox": "not_configured"},
+  "automation_manifest": "private/automation-manifest.json"
+}

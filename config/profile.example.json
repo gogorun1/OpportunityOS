@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "identity": {"preferred_name": "YOUR_NAME", "timezone": "Europe/Paris", "output_language": "English"},
+  "lanes": {"career": true, "startup": false, "investment": false, "events": false},
+  "goals": [{"outcome": "REPLACE_WITH_YOUR_GOAL", "horizon": "unknown", "priority": 1}],
+  "career": {
+    "target_roles": [], "geographies": [], "working_languages": [],
+    "availability": "unknown", "duration": "unknown", "work_authorization": "unknown",
+    "education": [], "evidence_links": [], "exclusions": []
+  },
+  "research": {"themes": [], "preferred_sources": [], "excluded_topics": [], "max_deep_tasks_per_run": 1},
+  "investment": {"enabled": false, "holdings": [], "watchlist": [], "risk_preferences": "unknown", "trade_execution_allowed": false},
+  "notifications": {"channel": "agent_inbox", "max_daily_digests": 1, "email_enabled": false, "routine_status_updates": false},
+  "permissions": {"internal_notion_archival": false, "external_actions_require_final_approval": true, "schedules_require_review": true},
+  "facts": []
+}
